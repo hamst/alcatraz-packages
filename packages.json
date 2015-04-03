@@ -725,6 +725,12 @@
         "url": "https://github.com/MakeZL/ZLCheckFilePlugin-Xcode",
         "description": "This is redundant files a lookup project (not the referenced file). Xcode - plugin.",
         "screenshot": "https://github.com/MakeZL/ZLCheckFilePlugin-Xcode/raw/master/screenhost2.png"
+      },
+      {
+        "name": "Lazy Assert",
+        "url": "https://github.com/hamst/LazyAssert",
+        "description": "Xcode plugin that enables autocompletion for asserts based on GUID message.",
+        "screenshot": "https://raw.githubusercontent.com/hamst/LazyAssert/master/screenshot.gif"
       }
     ],
     "color_schemes": [
